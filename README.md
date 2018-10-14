@@ -1,0 +1,2 @@
+# Notes_of_machine_learning
+进行ML学习概念过程中的一些个人笔记，主要还是以scikit为主，
